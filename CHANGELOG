@@ -1,0 +1,17 @@
+# Changelog
+All changes in the project must be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+## [1.0.0] - 2021-09-0
+### Added
+- Created API 
+- Implemented git-flow.
+- Created first Unit Tests for API functions.
+- Start using changelog ^-^.
+
+[Unreleased]: https://gitlab.bomvalor.com.br/plataforma/poc-laravel/-/compare/1.0.0...head
+[1.0.0]: https://gitlab.bomvalor.com.br/plataforma/poc-laravel/-/tags/1.0.0
